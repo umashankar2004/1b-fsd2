@@ -1,0 +1,12 @@
+{
+  "name": "uma",
+  "version": "1.0.0",
+  "main": "httpstransfer.js",
+  "scripts": {
+"start":"node httpstransfer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uma",
+  "license": "ISC",
+  "description": ""
+}
